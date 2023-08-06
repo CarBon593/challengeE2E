@@ -1,0 +1,22 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¦À8áÚ«Çœ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¦À8áÚ«Çœ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¦À8áÚ«Çœ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¦À8âÚ«Çœ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¦À8âÚ«Çœ1
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşÇ¶üÿÿÿÿ8âÚ«Çœ1
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşÇ¶üÿÿÿÿ8âÚ«Çœ1
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşÇ¶üÿÿÿÿ8âÚ«Çœ1
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşÇ¶üÿÿÿÿ8âÚ«Çœ1
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşÇ¶üÿÿÿÿ8ãÚ«Çœ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÇìÿÿÿÿÿ8åÚ«Çœ1
+q	java:S116"URename this field "first_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦úÇ÷8óÚ«Çœ1
+p	java:S116"TRename this field "last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÑÁ8óÚ«Çœ1
+u	java:S116"TRename this field "address_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ƒšûÿÿÿÿ8óÚ«Çœ1
+p	java:S116"TRename this field "post_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Êı8ôÚ«Çœ1
+x	java:S116"WRename this field "region_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë»Á·ùÿÿÿÿ8ôÚ«Çœ1
+]	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Ö¦À8öÚ«Çœ1
+]	java:S107?"<Method has 9 parameters, which is greater than 7 authorized.(üşÇ¶üÿÿÿÿ8öÚ«Çœ1
+e
+java:S1128
+"CRemove this unused import 'net.serenitybdd.screenplay.ui.Dropdown'.(âıøşúÿÿÿÿ8Àß²Çœ1
