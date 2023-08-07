@@ -1,6 +1,4 @@
 
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 P
  src/test/resources/serenity.conf,d\b\dbdf576756e543da1b447ce4b82c9f1aa7518a2c
 b
@@ -13,20 +11,24 @@ k
 ;src/main/java/com/nttdata/userinterfaces/compraCarrito.java,8\d\8d15c3b08facf7477d473a0d92b1849a782139ff
 d
 4src/main/java/com/nttdata/tasks/llenarFomulario.java,0\4\040f52c15a489d3383a10c10fe65a9aceadca7f2
-s
-Csrc/test/java/com/nttdata/stepdefinitions/CompraStepDefinition.java,1\b\1b867cb8dd8bee001383c827b4886070b8f8f11f
 ^
 .src/main/java/com/nttdata/tasks/confOrden.java,f\2\f240f563b4ba5e97acabb19c52a1ef80d2890b65
 V
 &src/test/java/com/nttdata/AppTest.java,6\4\64dffe8157607a42d556e50ccaca36a232abd4dd
-a
-1src/test/java/com/nttdata/runners/RunnerTest.java,e\0\e03bf13fdc34616fd7d6da80cadaa77519c017ea
 C
 serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
 7
 LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+@
+ChallengeE2E.iml,6\0\60bcc81fb69efd62488a20d32fdfe26a718c30b0
+s
+Csrc/test/java/com/nttdata/stepdefinitions/CompraStepDefinition.java,1\b\1b867cb8dd8bee001383c827b4886070b8f8f11f
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+a
+1src/test/java/com/nttdata/runners/RunnerTest.java,e\0\e03bf13fdc34616fd7d6da80cadaa77519c017ea
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

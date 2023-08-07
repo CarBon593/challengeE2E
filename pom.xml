@@ -44,7 +44,12 @@
       <artifactId>serenity-screenplay-webdriver</artifactId>
       <version>${serenity.version}</version>
     </dependency>
-
+    <dependency>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-deploy-plugin</artifactId>
+      <version>3.1.0</version>
+      <type>maven-plugin</type>
+    </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>

@@ -1,0 +1,9 @@
+Conclusiones
+
+La arquitectura del patrón Screenplay en Serenity BDD fomenta una escritura de pruebas más clara y concisa, lo que resulta en pruebas más legibles y fáciles de mantener.
+
+La sintaxis natural del patrón Screenplay y la generación de informes en Serenity BDD permiten una mejor comunicación y colaboración entre desarrolladores, testers y stakeholders.
+
+El enfoque del patrón Screenplay en Serenity BDD agiliza la escritura de pruebas y la hace más efectiva, lo que acelera el proceso de desarrollo.
+
+ La estructura clara y la naturaleza modular del patrón Screenplay aumentan la confiabilidad de las pruebas y reducen la probabilidad de errores en el código de prueba.
